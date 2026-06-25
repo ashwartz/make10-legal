@@ -4,7 +4,7 @@ title: Terms of Use — Make10
 
 # Terms of Use — Make10 (N10 — Number Bonds)
 
-**Effective date:** 24 June 2026
+**Effective date:** 25 June 2026
 
 These Terms of Use ("Terms") form an agreement between you and Avi Shwartz ("we," "us," "our")
 for the game **Make10 (N10 — Number Bonds)** (the "App"). By downloading or using the App, you
@@ -28,7 +28,7 @@ You agree not to:
 
 ## 4. Leaderboard and user content
 The App includes an **optional** online leaderboard. If you choose to take part, the nickname and
-country you provide, together with your score and stage, are submitted and **displayed publicly**
+avatar you choose, together with your score and stage, are submitted and **displayed publicly**
 to other players. You are responsible for what you submit. We may **moderate, remove, reset, or
 refuse** any entry or nickname at our discretion — for example, cheated scores or inappropriate
 nicknames — to keep the leaderboard safe and fair. You may remove your own entry at any time using

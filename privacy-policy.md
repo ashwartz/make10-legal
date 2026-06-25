@@ -4,7 +4,7 @@ title: Privacy Policy — Make10
 
 # Privacy Policy — Make10 (N10 — Number Bonds)
 
-**Effective date:** 24 June 2026
+**Effective date:** 25 June 2026
 
 This Privacy Policy explains how Avi Shwartz ("we," "us," "our") handles information in
 the mobile game **Make10 (N10 — Number Bonds)** (the "App"), available on Google Play.
@@ -18,8 +18,8 @@ to post a score to the optional online leaderboard.
 - The game works offline. Your scores, progress, and settings are stored **on your device**.
 - We collect **no personal information** unless you choose to submit a score to the public
   leaderboard.
-- If you do, we store only a **nickname you choose, the country you select, your score, and
-  the stage you reached** — no real name, email, phone number, or device location.
+- If you do, we store only a **nickname you choose, an avatar you pick, your score, and the
+  stage you reached** — no real name, email, phone number, or device location.
 - You can remove your leaderboard entry at any time.
 
 ## 2. Information stored on your device
@@ -30,7 +30,8 @@ the App's data, or by uninstalling the App.
 ## 3. The optional online leaderboard (only if you choose to take part)
 If you choose to save a score to the public leaderboard, we collect and store:
 - the **nickname** you type (please choose a nickname, not your real name);
-- the **country** you select from a list;
+- the **avatar** you select — a small cartoon picture chosen from a fixed set; it is not personal
+  information;
 - your **score** and the **stage** you reached;
 - an **anonymous ID** automatically created for your device, so your own entry can be updated
   or removed. This ID is not linked to your real identity; we do not ask you to create an
@@ -55,12 +56,12 @@ secure the service. See Google's privacy policy: https://policies.google.com/pri
 ## 5. Children's privacy
 Make10 is suitable for children and may be used by them. We do **not knowingly collect personal
 information from children**. The optional leaderboard stores only a self-chosen nickname, a
-selected country, and a game score; nicknames are screened by a profanity filter, and we ask
-that they contain no personal information. We may remove any entry or nickname that is
-inappropriate or contains personal information. We comply with applicable children's privacy laws
-(including COPPA) and Google Play's Families policy, and we never use any data for advertising or
-profiling. If you believe a child has shared personal information, email aviappstore1@gmail.com
-and we will delete it.
+chosen avatar, and a game score; nicknames are screened by a profanity filter, and we ask that
+they contain no personal information. We may remove any entry or nickname that is inappropriate
+or contains personal information. We comply with applicable children's privacy laws (including
+COPPA) and Google Play's Families policy, and we never use any data for advertising or profiling.
+If you believe a child has shared personal information, email aviappstore1@gmail.com and we will
+delete it.
 
 ## 6. How to delete your data
 - **On-device data:** clear the App's storage in your device settings, or uninstall the App.
