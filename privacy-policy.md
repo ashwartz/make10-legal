@@ -4,7 +4,7 @@ title: Privacy Policy — Make10
 
 # Privacy Policy — Make10 (N10 — Number Bonds)
 
-**Effective date:** 25 June 2026
+**Effective date:** 1 July 2026
 
 This Privacy Policy explains how Avi Shwartz ("we," "us," "our") handles information in
 the mobile game **Make10 (N10 — Number Bonds)** (the "App"), available on Google Play.
@@ -39,6 +39,18 @@ If you choose to save a score to the public leaderboard, we collect and store:
 
 This information is **publicly visible** on the in-app leaderboard to other players. Please do
 not include personal information in your nickname.
+
+**What we save, and what it's used for:**
+
+| Data | Why we save it |
+|---|---|
+| Nickname (you choose) | Displayed on the public leaderboard |
+| Avatar (you pick) | Displayed next to your nickname |
+| Score | To rank you on the "Best Score" leaderboard |
+| Stage reached | To rank you on the "Best Stage" leaderboard |
+| Anonymous user ID (auto-generated) | To identify, update, or delete only your own entry |
+
+None of this is used for advertising, analytics, or profiling.
 
 **How it's processed:** the leaderboard runs on **Google Firebase** (Cloud Firestore and
 Anonymous Authentication, provided by Google LLC), acting as our service provider. Google
